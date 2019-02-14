@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881092892522",
+    "firebase_url": "https://mapcollect-1549821404212.firebaseio.com",
+    "project_id": "mapcollect-1549821404212",
+    "storage_bucket": "mapcollect-1549821404212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881092892522:android:54aca9d3fea3926f",
+        "android_client_info": {
+          "package_name": "devine.prakash.com.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881092892522-c1fnhj3a9katdiu8kdqu7arf95acm410.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devine.prakash.com.basic",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "881092892522-i2v5ec4ciehhg71qk2cck7piaroi80ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WN31NR51ny85ypq8yeMCGCZC3AW87-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881092892522-i2v5ec4ciehhg71qk2cck7piaroi80ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
